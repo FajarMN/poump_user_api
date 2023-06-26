@@ -1,5 +1,5 @@
 {
-  "user": {[
+  "user": [
     {
       "id": "1",
       "username": "admin",
@@ -12,5 +12,5 @@
       "password": "11",
       "email": "fajar@gmail.com"
     }
-  ]}
+  ]
 }
